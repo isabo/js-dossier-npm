@@ -1,0 +1,25 @@
+{
+  "name": "js-dossier",
+  "version": "0.7.2",
+  "description": "The Dossier documentation generator for projects that use Google Closure Compiler, re-packaged as an NPM module. Based on jleyba/js-dossier.",
+  "main": "package.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jleyba/js-dossier.git"
+  },
+  "keywords": [
+    "Dossier",
+    "JSDoc",
+    "Google",
+    "Closure",
+    "Compiler",
+    "documentation",
+    "generator"
+  ],
+  "author": "Jason Leyba",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jleyba/js-dossier/issues"
+  },
+  "homepage": "https://github.com/jleyba/js-dossier#readme"
+}
